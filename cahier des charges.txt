@@ -1,0 +1,42 @@
+
+Client : 
+
+Un blogueur Lifestyle qui souhaite communiquer sur ses activités et ses projets, orienté sport.
+Le client veut pouvoir intégrer une mailing list pour pouvoir communiquer plus facilement.
+Le site est de type blog et très visuel (bannière + images des posts)
+Les news peuvent avoir une taille différentes, et le nombre de commentaire est affiché en dessous si l'option est activé.
+Le bottom doit rappeler les news a propos du blog, les dernier tweets et commentaires/
+	ainsi qu'un bandeau avec le copyright, cgu, disclaimer
+
+Notez que pour l'instant le travail a uniquement été porté sur la structure et le visuel du site.
+
+
+L'aspect visuel du site doit convenir au template 
+(resultat visible ici : http://l-mc.fr/integration/integ.html)
+
+-------------------------------------------------------------------------------------------------------
+
+
+template utilisé : http://uifuse.com/personal-blog-psd-templates/
+
+body color: f9f9fb;
+
+header container fluid, height: 350px, background color : 212429
+	hauteur menu : 60px (menu a gauche + logo au centre + socials à droite séparé par des borders greys)
+
+margin sur le corps de la page
+
+------------- banniere + mailing list -------------
+
+banniere (h: 580px;)
+titre incrusté au milieu de l'image, avec un offset de 1 col
+
+newsletter inscription en dessous de l'image
+mailing height : 180px
+	titre mailing / name / adress / bouton subscribe réactif
+
+largueur des diverses boites news: 3 cols / background color : f9f9fb
+incrustation d'une icone au centre, relevé de +10% comparé a la boite,  selon la catégorie des news
+
+bottom (410px height)
+section de 3 col de largeur
